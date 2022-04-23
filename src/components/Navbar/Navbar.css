@@ -42,8 +42,7 @@
     transform-origin:bottom
 }
 
-/* Small screen menu*/
-/* Below will change if sidebar displays*/
+/*------------- Small screen menu---------------*/
 .app__navbar-smallscreen {
     display: none;
     position: absolute;
@@ -66,13 +65,26 @@
     z-index: 5;
 }
 
+.app__navbar-smallscreen-links-container{
+    position: absolute;
+    top: 60px;
+    right: 6px;
+}
+
 .app__navbar-smallscreen-links {
     display: flex;
     flex-direction: column;
+    top: 10%;
+}
+
+.sidebar_item:hover {
+    background-color: rgba(48, 48, 48, 0.699);
 }
 
 .sidebar_item {
-    padding: 8px 0;
+    padding: 8px 24px;
+    border-top: 1px solid rgba(126, 126, 125, 0.404);
+   
 }
 
 .crossBtn {
@@ -94,7 +106,23 @@
     .app__navbar-logo img{
         width: 120px;
     }
+    .app__navbar {
+        position: fixed;
+    }
+
     .app__navbar-smallscreen {
         display: flex;
+    }
+    .app__navbar-smallscreen-container {
+        display: flex;
+    }
+}
+
+@media screen and (max-width: 650px) {
+    .app__navbar-smscreen_overlay {
+        width: 130px;
+    }
+    .sidebar_item {
+        padding: 8px 20px;
     }
 }

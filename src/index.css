@@ -4,7 +4,7 @@
   --font-base: 'Cormorant Upright', serif;
   --font-alt: 'Open Sans', sans-serif;
   
-  --color-golden: #DCCA87;
+  --color-main: #a1a1a1e1;
   --color-black: #0C0C0C;
   --color-gray: #545454;
   --color-crimson: #F5EFDB;
@@ -27,8 +27,8 @@ a {
 /*-------------------ANIMATIONS--------------------*/
 
 .slide-left {
-  -webkit-animation: slide-left 0.5s cubic-bezier(0.250, 0.460, 0.450, 0.940) both;
-	animation: slide-left 0.5s cubic-bezier(0.250, 0.460, 0.450, 0.940) both;
+  -webkit-animation: slide-left 0.25s cubic-bezier(0.250, 0.460, 0.450, 0.940) both;
+	animation: slide-left 0.25s cubic-bezier(0.250, 0.460, 0.450, 0.940) both;
 }
 
 
