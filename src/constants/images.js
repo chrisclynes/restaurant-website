@@ -18,6 +18,9 @@ import award05 from '../assets/award05.png';
 import signature from '../assets/signature.png';
 import quote from '../assets/quote.png';
 import flavios from '../assets/flavios.png';
+import pastabolognese from '../assets/pastabolognese.png';
+import italy from '../assets/italy.png';
+import rawpasta from '../assets/rawpasta.png';
 
 export default {
   bg,
@@ -40,4 +43,7 @@ export default {
   signature,
   quote,
   flavios,
+  pastabolognese,
+  italy,
+  rawpasta,
 };

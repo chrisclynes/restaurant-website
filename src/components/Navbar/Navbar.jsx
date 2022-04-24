@@ -38,7 +38,7 @@ const Navbar = () => {
         {toggleMenu && (
         <div className="app__navbar-smallscreen-container">
             <div className="app__navbar-smscreen_overlay flex__center slide-left">
-            <button className="crossBtn p__opensans" onClick={() => setToggleMenu(false)} >x</button>
+            <button type="button" className="crossBtn p__opensans" onClick={() => setToggleMenu(false)} >x</button>
               <div className="app__navbar-smallscreen-links-container">
                 <ul className="app__navbar-smallscreen-links">
                   <li className="sidebar_item p__opensans"><a href="#home">Home</a></li>
