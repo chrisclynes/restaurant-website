@@ -6,6 +6,8 @@
     justify-content: space-between;
     background-color: var(--color-black);
     padding: 1rem 2rem;
+    border-bottom: 1px solid rgba(126, 126, 125, 0.212);
+    position: fixed;
 }
 
 .app__navbar-logo img{

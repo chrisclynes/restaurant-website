@@ -21,6 +21,9 @@ import flavios from '../assets/flavios.png';
 import pastabolognese from '../assets/pastabolognese.png';
 import italy from '../assets/italy.png';
 import rawpasta from '../assets/rawpasta.png';
+import martini from '../assets/martini.png';
+
+
 
 export default {
   bg,
@@ -46,4 +49,5 @@ export default {
   pastabolognese,
   italy,
   rawpasta,
+  martini,
 };
