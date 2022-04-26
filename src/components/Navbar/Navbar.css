@@ -8,6 +8,7 @@
     padding: 1rem 2rem;
     border-bottom: 1px solid rgba(126, 126, 125, 0.212);
     position: fixed;
+    z-index: 9;
 }
 
 .app__navbar-logo img{
@@ -64,7 +65,7 @@
     width: 150px;
     background-color: var(--color-black);
     transition: 0.5s ease;
-    z-index: 5;
+    z-index: 10;
 }
 
 .app__navbar-smallscreen-links-container{

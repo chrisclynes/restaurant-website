@@ -1,0 +1,39 @@
+.app__knife_img img {
+    width: 675px;
+    margin-top: 2rem;
+}
+
+.app__chef-content {
+    display: flex;
+    flex-direction: column;
+    width: 80%;
+    margin-top: 2rem;
+}
+
+.app__chef-sign {
+    width: 100%;
+    margin-top: 3rem;
+}
+
+.app__chef-sign p:first-child {
+    line-height: 41px;
+    letter-spacing: 0.04em;
+}
+
+.app__wrapper_img img {
+    min-width: 250px;
+   max-width: 600px;
+}
+
+
+@media screen and (max-width: 950px) {
+    .app__knife_img img {
+        width: 475px;
+        margin-top: 2rem;
+    }
+}
+@media screen and (max-width: 450px) {
+    .app__knife_img img {
+      display: none;
+    }
+}

@@ -1,6 +1,5 @@
 import bg from '../assets/bg.png';
 import chef from '../assets/chef.png';
-import F from '../assets/F.png';
 import gallery01 from '../assets/gallery01.png';
 import gallery02 from '../assets/gallery02.png';
 import gallery03 from '../assets/gallery03.png';
@@ -16,7 +15,6 @@ import award02 from '../assets/award02.png';
 import award03 from '../assets/award03.png';
 import award05 from '../assets/award05.png';
 import signature from '../assets/signature.png';
-import quote from '../assets/quote.png';
 import flavios from '../assets/flavios.png';
 import pastabolognese from '../assets/pastabolognese.png';
 import italy from '../assets/italy.png';
@@ -28,7 +26,6 @@ import martini from '../assets/martini.png';
 export default {
   bg,
   chef,
-  F,
   gallery01,
   gallery02,
   gallery03,
@@ -44,7 +41,6 @@ export default {
   award03,
   award05,
   signature,
-  quote,
   flavios,
   pastabolognese,
   italy,
