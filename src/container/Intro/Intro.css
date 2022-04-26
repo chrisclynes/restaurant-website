@@ -17,7 +17,7 @@
     z-index: 2;
 }
 
-#player_overlay {
+.player_overlay_play_pause {
     background: rgba(0,0,0, 0.65);
 }
 
