@@ -20,6 +20,7 @@ import pastabolognese from '../assets/pastabolognese.png';
 import italy from '../assets/italy.png';
 import rawpasta from '../assets/rawpasta.png';
 import martini from '../assets/martini.png';
+import awardmeal from '../assets/awardmeal.png';
 
 
 
@@ -46,4 +47,5 @@ export default {
   italy,
   rawpasta,
   martini,
+  awardmeal,
 };
