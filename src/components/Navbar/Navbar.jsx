@@ -1,9 +1,11 @@
 import React, { useState } from 'react';
 import { GiHamburgerMenu } from 'react-icons/gi';
+import { VscChromeClose } from 'react-icons/vsc';
 
 
 import images from '../../constants/images';
 import './Navbar.css';
+
 
 const Navbar = () => {
   const [toggleMenu, setToggleMenu] = useState(false);
@@ -38,7 +40,9 @@ const Navbar = () => {
         {toggleMenu && (
         <div className="app__navbar-smallscreen-container">
             <div className="app__navbar-smscreen_overlay flex__center slide-left">
-            <button type="button" className="crossBtn p__opensans" onClick={() => setToggleMenu(false)} >x</button>
+            <button type="button" className="crossBtn p__opensans" onClick={() => setToggleMenu(false)} >
+              <VscChromeClose size={21} color="#fff" />
+            </button>
               <div className="app__navbar-smallscreen-links-container">
                 <ul className="app__navbar-smallscreen-links">
                   <li className="sidebar_item p__opensans"><a href="#home">Home</a></li>
