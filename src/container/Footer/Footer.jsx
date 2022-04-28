@@ -11,9 +11,9 @@ const Footer = () => (
     <Newsletter />
     <div className="app__footer-links" style={{zIndex: "1"}}>
       <div className="app__footer-links_icons">
-        <FiFacebook />
-        <FiTwitter />
-        <FiInstagram />
+        <FiFacebook size={22} />
+        <FiTwitter size={22} />
+        <FiInstagram size={22} />
       </div>
       <div className="app__footer-links_logo">
         <img src={images.flavios} alt="logo" />

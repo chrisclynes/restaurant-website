@@ -8,11 +8,11 @@ const Newsletter = () => (
     <div className="app__newsletter-heading">
       <SubHeading title="Newsletter" />
       <h1 className="headtext__cormorant">Subscribe to Our Newsletter</h1>
-      <p className="p__opensans">Keep Up with Our Latest Updates</p>
+      <p className="p__opensans">Keep Up with Our Latest Updates!</p>
     </div>
     <div className="app__newsletter-input flex__center">
       <input type="email" placeholder='Your email address' />
-      <button type="button" className="custom__button">Subscribe</button>
+      <button type="button" className="subscribe__button">Subscribe</button>
     </div>
   </div>
 );

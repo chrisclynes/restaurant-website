@@ -8,3 +8,30 @@
     background: var(--color-black);
     padding-top: 0;
 }
+
+.app__footer-links_logo {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+}
+.app__footer-links_logo img {
+    width: 50%;
+}
+
+.app__footer-links_icons {
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+    padding: 3rem 0 0.5rem 0;
+}
+
+.app__footer-links_icons svg {
+    color: var(--color-white); 
+    width:10%;
+    cursor: pointer;
+}
+
+.app__footer-links_icons svg:hover {
+    color: var(--color-main); 
+}
