@@ -11,20 +11,16 @@ import knife from '../assets/knife.png';
 import menu from '../assets/menu.png';
 import overlaybg from '../assets/overlaybg.png';
 import spoon from '../assets/spoon.svg';
-import welcome from '../assets/welcome.png';
 import findus from '../assets/findus.jpg';
 import award01 from '../assets/award01.png';
 import award02 from '../assets/award02.png';
 import award03 from '../assets/award03.png';
 import award05 from '../assets/award05.png';
-import signature from '../assets/signature.png';
 import flavios from '../assets/flavios.png';
 import pastabolognese from '../assets/pastabolognese.png';
-import italy from '../assets/italy.png';
 import rawpasta from '../assets/rawpasta.png';
 import martini from '../assets/martini.png';
 import awardmeal from '../assets/awardmeal.png';
-
 
 
 export default {
@@ -41,16 +37,13 @@ export default {
   menu,
   overlaybg,
   spoon,
-  welcome,
   findus,
   award01,
   award02,
   award03,
   award05,
-  signature,
   flavios,
   pastabolognese,
-  italy,
   rawpasta,
   martini,
   awardmeal,
