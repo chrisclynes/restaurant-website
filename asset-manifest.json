@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/restuarant-website/static/css/main.b8cb392c.css",
+    "main.js": "/restuarant-website/static/js/main.b0fd9916.js",
+    "static/media/meal.mp4": "/restuarant-website/static/media/meal.a1b6c6dc67dfa2f99343.mp4",
+    "static/media/pastabolognese.png": "/restuarant-website/static/media/pastabolognese.dbe60b2e9e4bd9264d5b.png",
+    "static/media/bg.png": "/restuarant-website/static/media/bg.3d421b1b5682e1b67deb.png",
+    "static/media/menu.png": "/restuarant-website/static/media/menu.a8287c67809afebcc280.png",
+    "static/media/awardmeal.png": "/restuarant-website/static/media/awardmeal.69c687c8d89cec9b94eb.png",
+    "static/media/findus.jpg": "/restuarant-website/static/media/findus.70999a2c23bf47f07cec.jpg",
+    "static/media/rawpasta.png": "/restuarant-website/static/media/rawpasta.0db6d09be5319c0e8c02.png",
+    "static/media/overlaybg.png": "/restuarant-website/static/media/overlaybg.165362eea72d1614ae28.png",
+    "static/media/chef.png": "/restuarant-website/static/media/chef.baa0fe1122573d82d10e.png",
+    "static/media/gallery01.jpg": "/restuarant-website/static/media/gallery01.6b9ca83dda65d6667d69.jpg",
+    "static/media/gallery02.jpg": "/restuarant-website/static/media/gallery02.62313abf7e1298a76c1f.jpg",
+    "static/media/knife.png": "/restuarant-website/static/media/knife.deea6c2164fa32e884f9.png",
+    "static/media/martini.png": "/restuarant-website/static/media/martini.4e95bb5001548d94754d.png",
+    "static/media/gallery05.jpg": "/restuarant-website/static/media/gallery05.6d4fc9846bd8b1c47039.jpg",
+    "static/media/gallery04.jpg": "/restuarant-website/static/media/gallery04.86a9420d0e3c5a934f92.jpg",
+    "static/media/gallery03.jpg": "/restuarant-website/static/media/gallery03.91c0c37cba6de0a43669.jpg",
+    "static/media/gallery06.jpg": "/restuarant-website/static/media/gallery06.2e1b6ceb89510f38fea8.jpg",
+    "static/media/gallery07.jpg": "/restuarant-website/static/media/gallery07.551ac8abc91f5e30c140.jpg",
+    "static/media/flavios.png": "/restuarant-website/static/media/flavios.c022568f2d864e7bbca3.png",
+    "static/media/award02.png": "/restuarant-website/static/media/award02.8bbdd51499739653b003.png",
+    "static/media/award05.png": "/restuarant-website/static/media/award05.48a7f5206184009dcb29.png",
+    "static/media/award01.png": "/restuarant-website/static/media/award01.361a4bc44b59b55abeda.png",
+    "static/media/award03.png": "/restuarant-website/static/media/award03.3f7ee934c17dccbd5fc6.png",
+    "index.html": "/restuarant-website/index.html",
+    "static/media/spoon.svg": "/restuarant-website/static/media/spoon.b5681c867bb867d794693513d048401f.svg",
+    "main.b8cb392c.css.map": "/restuarant-website/static/css/main.b8cb392c.css.map",
+    "main.b0fd9916.js.map": "/restuarant-website/static/js/main.b0fd9916.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b8cb392c.css",
+    "static/js/main.b0fd9916.js"
+  ]
+}
