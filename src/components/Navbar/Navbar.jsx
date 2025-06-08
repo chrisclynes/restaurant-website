@@ -27,7 +27,7 @@ const Navbar = () => {
       </div>
       <div className="nav_items-right">
         <ul className="app__navbar-loginbook">
-          <li className="nav_item p__opensans"><a href="/">Book Table</a></li>
+          <li className="nav_item p__opensans"><a href="#contact">Book Table</a></li>
           <li className="nav_item p__opensans"><a href="#login">Sign In</a></li>
         </ul>
       </div>
